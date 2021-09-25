@@ -1,0 +1,15 @@
+button {
+    margin: 5%;
+    text-decoration: none;
+    background-color: hsl(110, 100%, 50%);
+    padding: 10px;
+    color: rgb(7, 6, 6);
+  }
+  
+  p {
+    background-color: #000000;
+    color: #fffdfd;
+  
+    padding: 10px;
+    margin-right: 80%;
+  }
